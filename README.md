@@ -1,9 +1,6 @@
 # Robotica-Proyecto-final
 Proyecto carro a control remoto y sistema de inferencia 
 
-
-# Proyecto: Vehiculo Robotico Autonomo con Vision Artificial Centralizada (ESP32-CAM + TensorFlow Lite)
-
 ## Descripcion General
 
 Este proyecto implementa un sistema de navegacion autonoma para un chasis robotico utilizando un microcontrolador ESP32-CAM y procesamiento de Inteligencia Artificial. El robot es capaz de tomar decisiones de movimiento en tiempo real basandose en la clasificacion de imagenes (deteccion de colores rojo y verde) procesadas mediante una red neuronal entrenada con Edge Impulse.
